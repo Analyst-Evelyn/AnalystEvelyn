@@ -1,7 +1,8 @@
-# Hello, I'm Evelyn
-A results-driven Data and Business Intelligence Analyst with a passion for transforming complex datasets into meaningful insights.  
-With experience in data analysis, business intelligence, and digital marketing, I specialise in leveraging tools like Power BI, Looker Studio, Python, SQL, and Excel to drive data-informed decision-making.  
-My background spans multiple industries, including agritech, financial services, and technology policy, where I have applied analytical skills to optimise operations and improve business strategies.    
+# **👩🏽‍💻 Get to know me**
+ Hello, I'm Evelyn,
+A results-driven Data and Business Intelligence Analyst with a passion for transforming complex datasets into meaningful insights.<be>
+
+With experience in data analysis, business intelligence and a growing portfolio of data-driven projects, I specialise in leveraging tools like Power BI, Looker Studio, Python, SQL, and Excel to drive data-informed decision-making. My background spans multiple industries, including agritech, financial services, and technology policy, where I have applied analytical skills to optimise operations and improve business strategies.    
 
 Beyond my technical expertise, I have a keen interest in technology policy and information systems. Through research and strategic insights, I aim to contribute to Africa's digital transformation.  
 
