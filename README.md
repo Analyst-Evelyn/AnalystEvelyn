@@ -94,4 +94,4 @@ I conducted a churn analysis for a telecom company using SQL, Python, and Power 
 ## Contact Information
 📧 Email address: sboaduevelyn@gmail.com <br>
 📞 Phone: +233508325096<br>
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/evelyn-s-boadu-dataanalyst
